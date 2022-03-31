@@ -4,8 +4,6 @@ html{
 }
 body{
     background-color:white;
-    display: flex;
-    align-items: center;
 }
 
 div{
@@ -13,6 +11,7 @@ div{
     margin:0 15px;
     height: 40vh;
     font-size: 60px;
+    display: inline-block;
 }
 
 .rojoAmarillo{
