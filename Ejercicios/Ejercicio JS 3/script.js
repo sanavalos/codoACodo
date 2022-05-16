@@ -15,4 +15,5 @@ function validacion(){
         return false
     }
     alert('Ha iniciado sesión con exito')
+    return true
 }
