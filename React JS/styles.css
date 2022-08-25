@@ -1,0 +1,63 @@
+body {
+  background-image: url("./bg-laptop.gif");
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+  font-family: 'Neucha', cursive;
+}
+h1 {
+  margin: 0;
+  font-size: 7vh;
+}
+h4 {
+  margin: 0;
+  font-size: 3vh;
+  text-align: center;
+}
+li{
+ font-size: 2.55vh;
+}
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 2vh;
+}
+p {
+  margin-bottom: 0px;
+  font-size: 2.5vh;
+}
+a {
+  text-decoration: none;
+}
+
+.middle {
+  font-size: 4vh;
+  -webkit-text-stroke-width: 0;
+}
+.grayed {
+  color: rgb(108, 108, 108);
+}
+.info {
+  background-color: rgba(219, 219, 88, 0.887);
+  width: fit-content;
+  position: relative;
+  left: 8vw;
+  top: 25vh;
+  padding: 1vh 2vw;
+}
+.button {
+  position: relative;
+  left: 17vw;
+  top: 40vh;
+  background-color: black;
+  color: white;
+  font-size: 5vh;
+  border-radius: 1vh;
+  padding: 0 1vw;
+}
+.github {
+  color: rgb(225, 225, 33);
+}
+.button:hover {
+  border: 1vh rgb(225, 225, 33) solid;
+}
